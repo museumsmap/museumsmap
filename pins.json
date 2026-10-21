@@ -181,4 +181,137 @@
   },
   {
     "title": "Hunterian Museum",
-    "description": "Explore the history of surgery, anatomy and medical science through extraordinary specimens, historic instruments and surgical
+    "description": "Explore the history of surgery, anatomy and medical science through extraordinary specimens, historic instruments and surgical discoveries.",
+    "open_hours": "Tuesday-Saturday: 10:00-17:00",
+    "cost": "Free; booking recommended",
+    "latitude": 51.519,
+    "longitude": -0.1162,
+    "website": "https://hunterianmuseum.org/"
+  },
+  {
+    "title": "Grant Museum of Zoology",
+    "description": "Discover an unusual collection of animal skeletons, preserved specimens, fossils and other objects from the natural world.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Free",
+    "latitude": 51.523,
+    "longitude": -0.1335,
+    "website": "https://www.ucl.ac.uk/culture/grant-museum-zoology"
+  },
+  {
+    "title": "Petrie Museum of Egyptian Archaeology",
+    "description": "Explore ancient Egyptian and Sudanese archaeology, including pottery, jewellery, textiles, tools and everyday objects.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Free",
+    "latitude": 51.5235,
+    "longitude": -0.1336,
+    "website": "https://www.ucl.ac.uk/culture/petrie-museum"
+  },
+  {
+    "title": "Wellcome Collection",
+    "description": "Explore the connections between medicine, life, art and human experience through thought-provoking exhibitions and historical collections.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Free; some events may be ticketed",
+    "latitude": 51.5258,
+    "longitude": -0.1337,
+    "website": "https://wellcomecollection.org/"
+  },
+  {
+    "title": "Guildhall Art Gallery and Roman Amphitheatre",
+    "description": "Discover Victorian paintings, historic artworks and the remains of London's Roman amphitheatre beneath the City of London.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Free; some exhibitions or events may be ticketed",
+    "latitude": 51.5155,
+    "longitude": -0.091,
+    "website": "https://www.cityoflondon.gov.uk/things-to-do/attractions-museums-and-entertainment/guildhall-art-gallery"
+  },
+  {
+    "title": "London Mithraeum",
+    "description": "Visit the reconstructed remains of a Roman temple dedicated to Mithras, discovered beneath the City of London.",
+    "open_hours": "Check website for current opening hours and booking",
+    "cost": "Free; advance booking may be required",
+    "latitude": 51.5138,
+    "longitude": -0.0919,
+    "website": "https://www.londonmithraeum.com/"
+  },
+  {
+    "title": "The Postal Museum",
+    "description": "Discover the story of Britain's postal service, historic mail transport and the underground railway once used to carry letters across London.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.5239,
+    "longitude": -0.1167,
+    "website": "https://www.postalmuseum.org/"
+  },
+  {
+    "title": "Museum of Brands",
+    "description": "Travel through more than a century of consumer culture, advertising, packaging, toys and familiar household brands.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.5129,
+    "longitude": -0.2067,
+    "website": "https://museumofbrands.com/"
+  },
+  {
+    "title": "The Fan Museum",
+    "description": "Discover historic and decorative fans from around the world in a specialist museum housed in a pair of Georgian townhouses.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.4766,
+    "longitude": 0.0065,
+    "website": "https://www.thefanmuseum.org.uk/"
+  },
+  {
+    "title": "Brunel Museum",
+    "description": "Learn about pioneering engineer Marc Brunel and the Thames Tunnel, one of the most ambitious engineering projects of the Victorian era.",
+    "open_hours": "Check website for current opening hours and event schedules",
+    "cost": "Paid admission or event-specific pricing",
+    "latitude": 51.5008,
+    "longitude": -0.0525,
+    "website": "https://www.thebrunelmuseum.com/"
+  },
+  {
+    "title": "Garden Museum",
+    "description": "Explore the history of British gardens, landscape design, horticulture and gardening through objects, exhibitions and a garden beside the Thames.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.4911,
+    "longitude": -0.121,
+    "website": "https://gardenmuseum.org.uk/"
+  },
+  {
+    "title": "Freud Museum London",
+    "description": "Visit Sigmund Freud's former home and explore the history of psychoanalysis, personal artefacts, books and his famous couch.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.544,
+    "longitude": -0.1729,
+    "website": "https://www.freud.org.uk/"
+  },
+  {
+    "title": "The Courtauld Gallery",
+    "description": "Discover an outstanding collection of European paintings, including Impressionist and Post-Impressionist masterpieces, in Somerset House.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission; concessions may be available",
+    "latitude": 51.5117,
+    "longitude": -0.117,
+    "website": "https://courtauld.ac.uk/gallery/"
+  },
+  {
+    "title": "Leighton House",
+    "description": "Explore the extraordinary former home and studio of artist Frederic Leighton, featuring richly decorated interiors, paintings and an elaborate Arab Hall.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.5005,
+    "longitude": -0.2008,
+    "website": "https://www.rbkc.gov.uk/museums"
+  },
+  {
+    "title": "2 Willow Road",
+    "description": "Visit architect Ernő Goldfinger's modernist home in Hampstead and discover its innovative architecture, furniture, art and domestic interiors.",
+    "open_hours": "Check National Trust website for seasonal opening dates",
+    "cost": "Paid admission; National Trust arrangements may apply",
+    "latitude": 51.5556,
+    "longitude": -0.1746,
+    "website": "https://www.nationaltrust.org.uk/visit/london/2-willow-road"
+  }
+]
