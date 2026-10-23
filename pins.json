@@ -1,218 +1,317 @@
 [
   {
-    "title": "Ashmolean Museum",
-    "description": "Explore art and archaeology spanning ancient Egypt, classical civilisations, Asian art and European masterpieces at Oxford University’s museum.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free; some exhibitions may be ticketed",
-    "latitude": 51.7551,
-    "longitude": -1.2602,
-    "website": "https://www.ashmolean.org/"
+    "title": "The British Museum",
+    "description": "Explore world history and culture, including the Rosetta Stone, Egyptian mummies and ancient artefacts.",
+    "open_hours": "Daily: 10:00-17:00; Friday: 10:00-20:30",
+    "cost": "Free",
+    "latitude": 51.5194,
+    "longitude": -0.127,
+    "website": "https://www.britishmuseum.org/"
   },
   {
-    "title": "Pitt Rivers Museum",
-    "description": "Discover an extraordinary anthropology and archaeology collection, displayed through objects from cultures around the world.",
+    "title": "Natural History Museum",
+    "description": "Discover dinosaurs, fossils, wildlife and the natural history of our planet.",
+    "open_hours": "Daily: 10:00-17:50",
+    "cost": "Free",
+    "latitude": 51.4967,
+    "longitude": -0.1764,
+    "website": "https://www.nhm.ac.uk/"
+  },
+  {
+    "title": "Science Museum",
+    "description": "Explore science, technology, space exploration, engineering and interactive exhibitions.",
+    "open_hours": "Daily: 10:00-18:00",
+    "cost": "Free",
+    "latitude": 51.4978,
+    "longitude": -0.1745,
+    "website": "https://www.sciencemuseum.org.uk/"
+  },
+  {
+    "title": "Victoria and Albert Museum",
+    "description": "Discover art, fashion, sculpture, photography, jewellery and design from around the world.",
+    "open_hours": "Daily: 10:00-17:45; Friday: 10:00-22:00",
+    "cost": "Free",
+    "latitude": 51.4966,
+    "longitude": -0.1722,
+    "website": "https://www.vam.ac.uk/"
+  },
+  {
+    "title": "Tate Modern",
+    "description": "A major modern and contemporary art museum in a former power station on the River Thames.",
+    "open_hours": "Daily: 10:00-18:00",
+    "cost": "Free",
+    "latitude": 51.5076,
+    "longitude": -0.0994,
+    "website": "https://www.tate.org.uk/visit/tate-modern"
+  },
+  {
+    "title": "Tate Britain",
+    "description": "Explore British art from the 1500s to the present day, including works by J.M.W. Turner.",
+    "open_hours": "Daily: 10:00-18:00",
+    "cost": "Free",
+    "latitude": 51.4911,
+    "longitude": -0.1278,
+    "website": "https://www.tate.org.uk/visit/tate-britain"
+  },
+  {
+    "title": "National Gallery",
+    "description": "Discover European paintings from the 13th to the early 20th century in Trafalgar Square.",
+    "open_hours": "Daily: 10:00-18:00; Friday: 10:00-21:00",
+    "cost": "Free",
+    "latitude": 51.5089,
+    "longitude": -0.1283,
+    "website": "https://www.nationalgallery.org.uk/"
+  },
+  {
+    "title": "Imperial War Museum London",
+    "description": "Learn about modern conflict and its impact on people through military artefacts, exhibitions and personal stories.",
+    "open_hours": "Daily: 10:00-18:00",
+    "cost": "Free",
+    "latitude": 51.4958,
+    "longitude": -0.1087,
+    "website": "https://www.iwm.org.uk/visits/iwm-london"
+  },
+  {
+    "title": "National Maritime Museum",
+    "description": "Explore Britain's maritime history, naval discoveries and the story of exploration at Greenwich.",
+    "open_hours": "Daily: 10:00-17:00",
+    "cost": "Free",
+    "latitude": 51.481,
+    "longitude": -0.0055,
+    "website": "https://www.rmg.co.uk/national-maritime-museum"
+  },
+  {
+    "title": "Royal Observatory Greenwich",
+    "description": "Discover astronomy, historic telescopes and the Prime Meridian, where longitude is measured.",
+    "open_hours": "Daily: 10:00-17:00",
+    "cost": "Paid admission",
+    "latitude": 51.4779,
+    "longitude": -0.0015,
+    "website": "https://www.rmg.co.uk/royal-observatory"
+  },
+  {
+    "title": "Horniman Museum and Gardens",
+    "description": "Explore natural history, anthropology, musical instruments and extensive landscaped gardens.",
+    "open_hours": "Daily: 10:00-17:30",
+    "cost": "Free; some exhibitions and activities may cost extra",
+    "latitude": 51.4452,
+    "longitude": -0.0608,
+    "website": "https://www.horniman.ac.uk/"
+  },
+  {
+    "title": "Design Museum",
+    "description": "Discover contemporary design, architecture, fashion, graphics and product innovation.",
+    "open_hours": "Daily: 10:00-18:00",
+    "cost": "Free entry to permanent displays; special exhibitions may be paid",
+    "latitude": 51.4994,
+    "longitude": -0.2017,
+    "website": "https://designmuseum.org/"
+  },
+  {
+    "title": "Museum of London Docklands",
+    "description": "Discover the history of London's docks, the River Thames, trade and the development of the city.",
+    "open_hours": "Daily: 10:00-17:00",
+    "cost": "Free",
+    "latitude": 51.5076,
+    "longitude": -0.0235,
+    "website": "https://www.londonmuseum.org.uk/docklands/"
+  },
+  {
+    "title": "Wallace Collection",
+    "description": "Explore European paintings, armour, furniture, porcelain and decorative arts in a historic townhouse.",
+    "open_hours": "Daily: 10:00-17:00",
+    "cost": "Free",
+    "latitude": 51.5177,
+    "longitude": -0.153,
+    "website": "https://www.wallacecollection.org/"
+  },
+  {
+    "title": "Sir John Soane's Museum",
+    "description": "Visit the former home of architect John Soane, filled with antiquities, paintings and architectural models.",
+    "open_hours": "Wednesday-Sunday: 10:00-17:00",
+    "cost": "Free",
+    "latitude": 51.5163,
+    "longitude": -0.117,
+    "website": "https://www.soane.org/"
+  },
+  {
+    "title": "Charles Dickens Museum",
+    "description": "Explore the former home of Charles Dickens and discover objects and stories from his life and work.",
+    "open_hours": "Tuesday-Sunday: 10:00-17:00",
+    "cost": "Paid admission",
+    "latitude": 51.5225,
+    "longitude": -0.1168,
+    "website": "https://dickensmuseum.com/"
+  },
+  {
+    "title": "London Transport Museum",
+    "description": "Discover the history of London's buses, Underground trains, taxis and public transport network.",
+    "open_hours": "Daily: approximately 10:00-18:00",
+    "cost": "Paid admission",
+    "latitude": 51.5111,
+    "longitude": -0.1217,
+    "website": "https://www.ltmuseum.co.uk/"
+  },
+  {
+    "title": "Bank of England Museum",
+    "description": "Learn about the history of the Bank of England, British money, banking and monetary policy.",
+    "open_hours": "Monday-Friday: 10:00-17:00",
+    "cost": "Free",
+    "latitude": 51.5142,
+    "longitude": -0.0887,
+    "website": "https://www.bankofengland.co.uk/museum"
+  },
+  {
+    "title": "Museum of the Home",
+    "description": "Explore how homes and domestic life in England have changed over the centuries.",
+    "open_hours": "Tuesday-Sunday: 10:00-17:00",
+    "cost": "Free",
+    "latitude": 51.5299,
+    "longitude": -0.0786,
+    "website": "https://museumofthehome.org.uk/"
+  },
+  {
+    "title": "Royal Air Force Museum London",
+    "description": "Discover aviation history and military aircraft through historic planes and interactive displays.",
+    "open_hours": "Daily: 10:00-17:00",
+    "cost": "Free",
+    "latitude": 51.595,
+    "longitude": -0.2389,
+    "website": "https://www.rafmuseum.org.uk/london/"
+  },
+  {
+    "title": "Hunterian Museum",
+    "description": "Explore the history of surgery, anatomy and medical science through extraordinary specimens, historic instruments and surgical discoveries.",
+    "open_hours": "Tuesday-Saturday: 10:00-17:00",
+    "cost": "Free; booking recommended",
+    "latitude": 51.519,
+    "longitude": -0.1162,
+    "website": "https://hunterianmuseum.org/"
+  },
+  {
+    "title": "Grant Museum of Zoology",
+    "description": "Discover an unusual collection of animal skeletons, preserved specimens, fossils and other objects from the natural world.",
     "open_hours": "Check website for current opening hours",
     "cost": "Free",
-    "latitude": 51.7587,
-    "longitude": -1.2559,
-    "website": "https://www.prm.ox.ac.uk/"
+    "latitude": 51.523,
+    "longitude": -0.1335,
+    "website": "https://www.ucl.ac.uk/culture/grant-museum-zoology"
   },
   {
-    "title": "Oxford University Museum of Natural History",
-    "description": "See dinosaur skeletons, fossils, minerals and natural-history specimens in a striking Victorian Gothic building.",
+    "title": "Petrie Museum of Egyptian Archaeology",
+    "description": "Explore ancient Egyptian and Sudanese archaeology, including pottery, jewellery, textiles, tools and everyday objects.",
     "open_hours": "Check website for current opening hours",
     "cost": "Free",
-    "latitude": 51.7587,
-    "longitude": -1.2557,
-    "website": "https://www.oumnh.ox.ac.uk/"
+    "latitude": 51.5235,
+    "longitude": -0.1336,
+    "website": "https://www.ucl.ac.uk/culture/petrie-museum"
   },
   {
-    "title": "National Museum of Scotland",
-    "description": "Explore Scottish history, world cultures, science, technology, design and natural history in a large central Edinburgh museum.",
+    "title": "Wellcome Collection",
+    "description": "Explore the connections between medicine, life, art and human experience through thought-provoking exhibitions and historical collections.",
     "open_hours": "Check website for current opening hours",
     "cost": "Free; some events may be ticketed",
-    "latitude": 55.947,
-    "longitude": -3.1907,
-    "website": "https://www.nms.ac.uk/national-museum-of-scotland/"
+    "latitude": 51.5258,
+    "longitude": -0.1337,
+    "website": "https://wellcomecollection.org/"
   },
   {
-    "title": "Kelvingrove Art Gallery and Museum",
-    "description": "Browse art, natural history, archaeology and cultural collections in one of Glasgow’s best-known museums.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free",
-    "latitude": 55.8686,
-    "longitude": -4.2905,
-    "website": "https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum"
-  },
-  {
-    "title": "Riverside Museum",
-    "description": "Explore Glasgow’s transport and technology history through historic vehicles, locomotives, bicycles and shipbuilding displays.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free",
-    "latitude": 55.8652,
-    "longitude": -4.3063,
-    "website": "https://www.glasgowlife.org.uk/museums/venues/riverside-museum"
-  },
-  {
-    "title": "Manchester Museum",
-    "description": "Discover natural history, archaeology, ancient Egypt and world cultures, including collections of fossils and live animals.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free",
-    "latitude": 53.4668,
-    "longitude": -2.2335,
-    "website": "https://www.museum.manchester.ac.uk/"
-  },
-  {
-    "title": "People's History Museum",
-    "description": "Explore the history of democracy, workers’ rights, protest and social change in Britain.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free; donations welcome",
-    "latitude": 53.4808,
-    "longitude": -2.2557,
-    "website": "https://phm.org.uk/"
-  },
-  {
-    "title": "Museum of Liverpool",
-    "description": "Learn about Liverpool’s people, communities, music, sport, migration and maritime history on the city’s waterfront.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free",
-    "latitude": 53.4058,
-    "longitude": -2.9955,
-    "website": "https://www.liverpoolmuseums.org.uk/museum-of-liverpool"
-  },
-  {
-    "title": "World Museum",
-    "description": "Explore ancient civilisations, world cultures, natural history and space in a family-friendly museum in Liverpool.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free; some planetarium shows may be ticketed",
-    "latitude": 53.4107,
-    "longitude": -2.9807,
-    "website": "https://www.liverpoolmuseums.org.uk/world-museum"
-  },
-  {
-    "title": "Bristol Museum & Art Gallery",
-    "description": "Discover fine art, archaeology, geology and natural history, including Egyptian artefacts and local collections.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free; some exhibitions may be ticketed",
-    "latitude": 51.456,
-    "longitude": -2.605,
-    "website": "https://www.bristolmuseums.org.uk/bristol-museum-and-art-gallery/"
-  },
-  {
-    "title": "M Shed",
-    "description": "Discover Bristol’s history and people through objects, photographs, transport exhibits and stories of the harbour city.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free",
-    "latitude": 51.4494,
-    "longitude": -2.598,
-    "website": "https://www.bristolmuseums.org.uk/m-shed/"
-  },
-  {
-    "title": "Brunel's SS Great Britain",
-    "description": "Step aboard Isambard Kingdom Brunel’s pioneering steamship and explore the ship, dockyard and engineering displays.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Paid admission",
-    "latitude": 51.4493,
-    "longitude": -2.6084,
-    "website": "https://www.ssgreatbritain.org/"
-  },
-  {
-    "title": "Beamish, The Living Museum of the North",
-    "description": "Experience life in north-east England through recreated historic streets, period buildings, working vehicles and costumed interpreters.",
-    "open_hours": "Check website for seasonal opening hours",
-    "cost": "Paid admission",
-    "latitude": 54.8819,
-    "longitude": -1.6582,
-    "website": "https://www.beamish.org.uk/"
-  },
-  {
-    "title": "National Railway Museum",
-    "description": "Discover railway history through famous locomotives, engineering exhibits and stories of rail travel in York.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free; some experiences may be ticketed",
-    "latitude": 53.959,
-    "longitude": -1.093,
-    "website": "https://www.railwaymuseum.org.uk/"
-  },
-  {
-    "title": "York Castle Museum",
-    "description": "Explore everyday life in York through historic interiors, social-history collections and a recreated Victorian street.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Paid admission",
-    "latitude": 53.955,
-    "longitude": -1.0805,
-    "website": "https://www.yorkcastlemuseum.org.uk/"
-  },
-  {
-    "title": "National Museum Cardiff",
-    "description": "Explore Welsh natural history, geology and archaeology alongside art collections from Wales and around the world.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free; some exhibitions may be ticketed",
-    "latitude": 51.4857,
-    "longitude": -3.1774,
-    "website": "https://museum.wales/cardiff/"
-  },
-  {
-    "title": "St Fagans National Museum of History",
-    "description": "Walk through historic Welsh buildings relocated to an open-air site telling the story of Welsh life and communities.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Free; donations welcome",
-    "latitude": 51.488,
-    "longitude": -3.272,
-    "website": "https://museum.wales/stfagans/"
-  },
-  {
-    "title": "Black Country Living Museum",
-    "description": "Explore an open-air recreation of the Black Country’s industrial past, with historic buildings, demonstrations and costumed interpreters.",
-    "open_hours": "Check website for seasonal opening hours",
-    "cost": "Paid admission",
-    "latitude": 52.5225,
-    "longitude": -2.0765,
-    "website": "https://www.bclm.com/"
-  },
-  {
-    "title": "Bletchley Park",
-    "description": "Discover the people, codebreaking and computing innovations behind Britain’s wartime intelligence work.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Paid admission",
-    "latitude": 51.9977,
-    "longitude": -0.7407,
-    "website": "https://www.bletchleypark.org.uk/"
-  },
-  {
-    "title": "National Space Centre",
-    "description": "Explore space science, astronomy, rockets and space exploration through interactive galleries and a planetarium.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Paid admission",
-    "latitude": 52.6567,
-    "longitude": -1.1322,
-    "website": "https://www.spacecentre.co.uk/"
-  },
-  {
-    "title": "Thinktank, Birmingham Science Museum",
-    "description": "Discover science, technology, engineering and Birmingham’s industrial history through hands-on exhibits and historic objects.",
-    "open_hours": "Check website for current opening hours",
-    "cost": "Paid admission",
-    "latitude": 52.4803,
-    "longitude": -1.8858,
-    "website": "https://www.birminghammuseums.org.uk/thinktank"
-  },
-  {
-    "title": "Royal Albert Memorial Museum",
-    "description": "Explore Exeter and Devon’s history, archaeology, world cultures, fine art and natural-history collections.",
+    "title": "Guildhall Art Gallery and Roman Amphitheatre",
+    "description": "Discover Victorian paintings, historic artworks and the remains of London's Roman amphitheatre beneath the City of London.",
     "open_hours": "Check website for current opening hours",
     "cost": "Free; some exhibitions or events may be ticketed",
-    "latitude": 50.725,
-    "longitude": -3.5315,
-    "website": "https://rammuseum.org.uk/"
+    "latitude": 51.5155,
+    "longitude": -0.091,
+    "website": "https://www.cityoflondon.gov.uk/things-to-do/attractions-museums-and-entertainment/guildhall-art-gallery"
   },
   {
-    "title": "National Coal Mining Museum for England",
-    "description": "Learn about the coal industry and mining communities, including underground mining heritage and industrial machinery.",
-    "open_hours": "Check website for current opening hours and underground tour availability",
-    "cost": "Free; some activities may be ticketed",
-    "latitude": 53.645,
-    "longitude": -1.615,
-    "website": "https://www.ncm.org.uk/"
+    "title": "London Mithraeum",
+    "description": "Visit the reconstructed remains of a Roman temple dedicated to Mithras, discovered beneath the City of London.",
+    "open_hours": "Check website for current opening hours and booking",
+    "cost": "Free; advance booking may be required",
+    "latitude": 51.5138,
+    "longitude": -0.0919,
+    "website": "https://www.londonmithraeum.com/"
+  },
+  {
+    "title": "The Postal Museum",
+    "description": "Discover the story of Britain's postal service, historic mail transport and the underground railway once used to carry letters across London.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.5239,
+    "longitude": -0.1167,
+    "website": "https://www.postalmuseum.org/"
+  },
+  {
+    "title": "Museum of Brands",
+    "description": "Travel through more than a century of consumer culture, advertising, packaging, toys and familiar household brands.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.5129,
+    "longitude": -0.2067,
+    "website": "https://museumofbrands.com/"
+  },
+  {
+    "title": "The Fan Museum",
+    "description": "Discover historic and decorative fans from around the world in a specialist museum housed in a pair of Georgian townhouses.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.4766,
+    "longitude": 0.0065,
+    "website": "https://www.thefanmuseum.org.uk/"
+  },
+  {
+    "title": "Brunel Museum",
+    "description": "Learn about pioneering engineer Marc Brunel and the Thames Tunnel, one of the most ambitious engineering projects of the Victorian era.",
+    "open_hours": "Check website for current opening hours and event schedules",
+    "cost": "Paid admission or event-specific pricing",
+    "latitude": 51.5008,
+    "longitude": -0.0525,
+    "website": "https://www.thebrunelmuseum.com/"
+  },
+  {
+    "title": "Garden Museum",
+    "description": "Explore the history of British gardens, landscape design, horticulture and gardening through objects, exhibitions and a garden beside the Thames.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.4911,
+    "longitude": -0.121,
+    "website": "https://gardenmuseum.org.uk/"
+  },
+  {
+    "title": "Freud Museum London",
+    "description": "Visit Sigmund Freud's former home and explore the history of psychoanalysis, personal artefacts, books and his famous couch.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.544,
+    "longitude": -0.1729,
+    "website": "https://www.freud.org.uk/"
+  },
+  {
+    "title": "The Courtauld Gallery",
+    "description": "Discover an outstanding collection of European paintings, including Impressionist and Post-Impressionist masterpieces, in Somerset House.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission; concessions may be available",
+    "latitude": 51.5117,
+    "longitude": -0.117,
+    "website": "https://courtauld.ac.uk/gallery/"
+  },
+  {
+    "title": "Leighton House",
+    "description": "Explore the extraordinary former home and studio of artist Frederic Leighton, featuring richly decorated interiors, paintings and an elaborate Arab Hall.",
+    "open_hours": "Check website for current opening hours",
+    "cost": "Paid admission",
+    "latitude": 51.5005,
+    "longitude": -0.2008,
+    "website": "https://www.rbkc.gov.uk/museums"
+  },
+  {
+    "title": "2 Willow Road",
+    "description": "Visit architect Ernő Goldfinger's modernist home in Hampstead and discover its innovative architecture, furniture, art and domestic interiors.",
+    "open_hours": "Check National Trust website for seasonal opening dates",
+    "cost": "Paid admission; National Trust arrangements may apply",
+    "latitude": 51.5556,
+    "longitude": -0.1746,
+    "website": "https://www.nationaltrust.org.uk/visit/london/2-willow-road"
   }
 ]
